@@ -1,4 +1,4 @@
-# YieldCurves
+# Yield Curve Estimation
 A weekend project on US Treasury yield curve estimation via cubic spline interpolation.
 
 We use the method of cubic spline interpolation to model the US Treasury Yield Curve. A general method is given to construct the curve given a set of data and a desired date. We then check our model against the true yield curve to analyze the accuracy of the model. This was a project I used to get familiar with some basic interpolation methods, to understand the yield curve, and was a good exercise in collecting appropriate data.
